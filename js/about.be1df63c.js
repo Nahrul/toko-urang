@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoko_urang"]=self["webpackChunktoko_urang"]||[]).push([[443],{3081:function(n,a,u){u.r(a),u.d(a,{default:function(){return f}});var t=u(3396);const r={class:"about"},o=(0,t._)("h1",null,"Ini adalah halaman About",-1),e=[o];function c(n,a){return(0,t.wg)(),(0,t.iD)("div",r,e)}var s=u(89);const l={},i=(0,s.Z)(l,[["render",c]]);var f=i}}]);
+//# sourceMappingURL=about.be1df63c.js.map
